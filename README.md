@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Welcome to my GitHub
+**Welcome to my GitHub**
 
-👋 I’m @Melina-w
+👋 I’m [Melina-w](https://github.com)
 
 😄 Pronouns: She/ Her
 
@@ -10,7 +10,11 @@ Welcome to my GitHub
 
 🔭 I’m currently working on my-English-dictionary, a project I created to practise new technologies
 
-📫 How to reach me: melinawaigant@hotmail.com
+📫 How to reach me:
+
+melinawaigant@hotmail.com
+
+[LinkedIn](https://www.linkedin.com/in/melina-waigant-861016107/)
 
 ⚡ Fun fact: when I was a child I had an otter as a pet.
 
