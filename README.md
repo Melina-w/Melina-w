@@ -10,11 +10,7 @@
 
 🔭 I’m currently working on my-English-dictionary, a project I created to practise new technologies
 
-📫 How to reach me:
-
-melinawaigant@hotmail.com
-
-[LinkedIn](https://www.linkedin.com/in/melina-waigant-861016107/)
+📫 How to reach me: melinawaigant@hotmail.com
 
 ⚡ Fun fact: when I was a child I had an otter as a pet.
 
