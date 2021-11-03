@@ -12,5 +12,5 @@
 
 📫 How to reach me: melinawaigant@hotmail.com
 
-⚡ Fun fact: when I was a child I had an otter as a pet.
+⚡ Fun fact: when I was a child I had an nutria as a pet.
 
