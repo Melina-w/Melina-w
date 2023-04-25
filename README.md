@@ -14,3 +14,6 @@
 
 ⚡ Fun fact: when I was a child I had a nutria as a pet.
 
+**Contact me**
+
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" />](https://www.linkedin.com/in/melina-waigant-861016107/)
